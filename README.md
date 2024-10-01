@@ -1,17 +1,15 @@
+## Alguns Laboratorios Gratuitos
 
+### Atividade em Grupo Para Hoje (01/10/2024): 
 
-## Laboratorios Gratuitos
+- [HackTheBox](https://www.hackthebox.com): Oferece uma variedade de laboratórios interativos, sendo ideal para quem está começando no mundo da cibersegurança, com desafios de diferentes níveis de dificuldade. 
+- [OverTheWire](http://overthewire.org): Excelente para iniciantes, com foco em ensinar conceitos de segurança de sistemas e redes através de desafios progressivos.
+- [CryptoHack](https://cryptohack.org/): Focado em introduzir criptografia de forma lúdica e acessível, ótimo para estudantes aprenderem sobre conceitos básicos de criptografia. 
+- [Try Hack Me](https://tryhackme.com):  Plataforma educacional que combina guias detalhados com laboratórios práticos, ideal para quem está começando no hacking e segurança cibernética.
+- [PicoCTF](https://picoctf.com): Criada especificamente para jovens, é uma das melhores opções para iniciantes aprenderem cibersegurança através de desafios projetados para estudantes. 
+- [Root-Me](https://www.root-me.org): Plataforma com desafios práticos em diversas categorias, voltada tanto para iniciantes quanto para níveis mais avançados. 
 
-### Para hoje
-
-- [HackTheBox](https://www.hackthebox.com)
-- [OverTheWire](http://overthewire.org)
-- [CryptoHack](https://cryptohack.org/)
-- [Try Hack Me](https://tryhackme.com)
-- [PicoCTF](https://picoctf.com)
-- [Root-Me](https://www.root-me.org) 
-
-### Para proxima semana
+### Para Próxima Semana: 
 
 - [Atack-Defense](https://attackdefense.com)
 - [Alerta para ganhar](https://alf.nu/alert1)
